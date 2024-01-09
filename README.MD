@@ -1,0 +1,1 @@
+A simple bash project which automatically sets a django project with the neccessary configuration in the settings,urls,app_urls,app_views giving a proper understanding of the manipulation of how files work in bash
